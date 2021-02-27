@@ -1,16 +1,18 @@
-# fuel_manager
+# Fuel Manager
 
 Aplicativo para gestão de gastos com combustível.
 
-## Getting Started
+## Descrição
 
-This project is a starting point for a Flutter application.
+Este projeto foi desenvolvido para apresentar os principais recursos do Flutter no desenvolvimento de um aplicativo móvel.
 
-A few resources to get you started if this is your first Flutter project:
+## Recursos
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Criação do Projeto](https://github.com/KleberSouza/fuel_manager/tree/3bbf80cbe5facd4dbc27efcaa886c12315f89cf7)
+- Projeto de Interfaces - Formulários
+- Projeto de Interfaces - Navegação
+- Projeto de Interfaces - Listas
+- Gerenciamento de Estados
+- Persistência de Dados - Arquivos
+- Persistência de Dados - SQLite
+- Persistência de Dados - Acessando uma API Web
